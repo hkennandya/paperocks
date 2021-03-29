@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h5>Make your choice :</h5>
+    <h5>Make your choices :</h5>
     <form method="post">
     <button type="submit" value="Gunting" name="user">&#9996;&#127995;</button>
     <button type="submit" value="Batu" name="user">&#9994;&#127995;</button>
